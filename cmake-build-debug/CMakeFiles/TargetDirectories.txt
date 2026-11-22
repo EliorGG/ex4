@@ -1,0 +1,3 @@
+C:/Elior/university/ComputerScienceIntro/ex4/cmake-build-debug/CMakeFiles/ex4.dir
+C:/Elior/university/ComputerScienceIntro/ex4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Elior/university/ComputerScienceIntro/ex4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
